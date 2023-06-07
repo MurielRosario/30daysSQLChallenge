@@ -1,7 +1,7 @@
-# 30daysSQLChallenge
+# DataLemurSQLChallenge
 
-I decided to challenge myself with a 30 days of
-SQL using the online platform provided by Nick Singh's DataLemur. 
+I've been utilizing Nick Singh's DataLemur online platform to enhance 
+my SQL skills by practicing various challenges. 
 
-The platform primarily focuses on practicing the most frequently 
-asked SQL questions and uses PostgreSQL to execute the queries.
+This platform is designed to assist users in practicing the most 
+frequently asked SQL questions and operates queries utilizing PostgreSQL.
