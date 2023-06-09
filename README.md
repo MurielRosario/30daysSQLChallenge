@@ -1,4 +1,4 @@
-# DataLemurSQLChallenge
+# DataLemurSQLChallenges
 
 I've been utilizing Nick Singh's DataLemur online platform to enhance 
 my SQL skills by practicing various challenges. 
